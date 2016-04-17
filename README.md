@@ -4,6 +4,10 @@
 
 I use it in a cronjob personally to get hourly notifications about the remaining high-speed data usage for Airtel Broadband.
 
+# Usage / Installation
+
+To add to your crontab, run install.sh
+
 # Few things
 
 * Save data, save lives. 512kbps is hell on earth.
